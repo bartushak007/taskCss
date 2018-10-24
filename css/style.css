@@ -1,0 +1,157 @@
+
+*{
+	border: solid red 1px;
+}
+.wrapper {
+	margin: 0 auto;
+	width: 800px;	
+}
+
+
+.head{
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	height: 590px;
+}
+
+
+header{
+	color:#ffffff;
+	margin: 0 auto;
+	text-align: center;
+	width: 590px;	
+	height: 590px;	
+}
+
+
+.elena{
+	padding-top: 30px;
+}
+
+
+.a-elena{
+	color:#ffffff;
+	font-family: belinda;
+	font-size: 53px;
+	text-decoration: none;
+}
+
+
+nav{
+	margin-top: 30px;
+}
+
+
+.nav-ul{
+	margin: 0;
+	padding: 0;	
+}
+
+
+.nav-li{
+	color:#ffffff;
+	list-style-type: none;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 35px;
+}
+
+
+.nav-li-a{
+	color:#ffffff;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-family: opensansasemibold;
+	text-decoration: none;
+}
+
+
+.good-day-h1{
+	text-transform: uppercase;
+	margin: 0;
+	margin-top: 50px;
+	font-size: 53px;
+	font-family: ubuntubold;
+}
+
+
+.just-for-you-p,
+.good-day-a{	
+	font-family: ptsansabold;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+.just-for-you-p{
+	margin: 0;
+	margin-top: 35px;
+}
+.just-for-you-p:before,
+.just-for-you-p:after{
+	content: "";
+	display: inline-block;
+	border-top:2px solid #4e656f;
+	width: 100px;
+	position: relative;
+	bottom: 4px;
+}
+.just-for-you-p:before{
+	right: 33px;
+}
+.just-for-you-p:after{
+	left: 33px; 
+}
+.get-your-copy{
+	margin: 0 auto;
+	width: 235px;
+	margin-top: 83px;
+	height: 50px;
+	background: #50c3af;
+	border: solid 1px #50c3af;
+	border-radius: 30px;
+}
+.get-your-copy-a{
+	color:#ffffff;
+	margin-top:15px; 
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: ptsansabold;
+	font-size: 15px;
+}
+
+.advantages{
+	background: #eeeeef;
+	height: 290px;
+}
+section{
+	width: 590px;
+	margin: 0  auto;
+}
+.profesionals,
+.amateours,
+.for-everyone {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 170px;
+	margin-top: 63px;
+}
+
+.amateours,
+.for-everyone{
+	margin-left: 30px;
+}
+.profesionals-p,
+.amateours-p,
+.for-everyone-p{
+	font-family: ptsansabold;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin: 30px;
+}
+.profesionals-second-p,
+.amateours-second-p,
+.for-everyone-second-p{
+	font-family: ptsansregular;
+	font-size: 14px;
+}

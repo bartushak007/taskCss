@@ -1,0 +1,36 @@
+@font-face {
+    font-family: belinda;
+    src: url(../fonts/belinda.otf);
+}
+@font-face {
+    font-family: cabinregular;
+    src: url(../fonts/cabinregular.ttf);
+}
+@font-face {
+    font-family: nexaheavy;
+    src: url(../fonts/nexaheavy.otf);
+}
+@font-face {
+    font-family: nexaregular;
+    src: url(../fonts/nexaregular.otf);
+}
+@font-face {
+    font-family: opensansasemibold;
+    src: url(../fonts/opensansasemibold.ttf);
+}
+@font-face {
+    font-family: ptsansabold;
+    src: url(../fonts/ptsansabold.ttf);
+}
+@font-face {
+    font-family: ptsansregular;
+    src: url(../fonts/ptsansregular.ttf);
+}
+@font-face {
+    font-family: ubuntubold;
+    src: url(../fonts/ubuntubold.ttf);
+}
+body {
+	margin: 0 auto;
+	padding: 0;
+}
